@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Personal documents -- never belong in this public profile repo
+*Resume*
+*resume*
+
+# Intermediate pipeline artifact (regenerate via prep_photo.py)
+source-prepped.png
