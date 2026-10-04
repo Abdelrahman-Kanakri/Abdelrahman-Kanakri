@@ -1,35 +1,31 @@
 {
   "username": "Abdelrahman-Kanakri",
-  "generated_at": "2026-10-03T11:37:33Z",
+  "generated_at": "2026-10-04T12:19:19Z",
   "range": {
-    "start": "2025-09-28",
+    "start": "2025-10-05",
+    "end": "2026-10-04"
+  },
+  "total_contributions": 240,
+  "active_days": 120,
+  "avg_per_active_day": 2.0,
+  "current_streak": {
+    "length": 78,
+    "start": "2026-07-18",
     "end": "2026-10-03"
   },
-  "total_contributions": 322,
-  "active_days": 123,
-  "avg_per_active_day": 2.6,
-  "current_streak": {
-    "length": 77,
-    "start": "2026-07-18",
-    "end": "2026-10-02"
-  },
   "longest_streak": {
-    "length": 77,
+    "length": 78,
     "start": "2026-07-18",
-    "end": "2026-10-02"
+    "end": "2026-10-03"
   },
   "best_day": {
-    "date": "2025-10-01",
-    "count": 41
+    "date": "2026-08-21",
+    "count": 16
   },
   "monthly": [
     {
-      "month": "2025-09",
-      "total": 42
-    },
-    {
       "month": "2025-10",
-      "total": 49
+      "total": 8
     },
     {
       "month": "2025-11",
@@ -77,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 2
+      "total": 3
     }
   ],
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 13
-    },
-    {
-      "date": "2025-09-29",
-      "count": 20
-    },
-    {
-      "date": "2025-09-30",
-      "count": 9
-    },
-    {
-      "date": "2025-10-01",
-      "count": 41
-    },
-    {
-      "date": "2025-10-02",
-      "count": 0
-    },
-    {
-      "date": "2025-10-03",
-      "count": 0
-    },
-    {
-      "date": "2025-10-04",
-      "count": 0
-    },
     {
       "date": "2025-10-05",
       "count": 0
@@ -1563,6 +1531,10 @@
     },
     {
       "date": "2026-10-03",
+      "count": 1
+    },
+    {
+      "date": "2026-10-04",
       "count": 0
     }
   ]
